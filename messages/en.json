@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "title": "Vinay Santosh Belekar | AI/ML · Software · IoT",
+    "description": "B.Tech Electronics and Communication Engineering student at VIT Chennai building intelligent systems across AI/ML, software, IoT, embedded systems, and electronics."
+  },
+  "nav": {
+    "about": "About",
+    "education": "Education",
+    "skills": "Skills",
+    "projects": "Projects",
+    "experience": "Leadership",
+    "achievements": "Achievements",
+    "certifications": "Certifications",
+    "contact": "Contact"
+  },
+  "hero": {
+    "eyebrow": "ECE · AI/ML · SOFTWARE · IOT",
+    "headline": "Building intelligent systems across software and the physical world.",
+    "command1": "whoami",
+    "response1": "Vinay Santosh Belekar · B.Tech ECE student",
+    "command2": "focus --current",
+    "response2": "AI/ML · software · embedded systems · IoT · electronics",
+    "command3": "open ./projects",
+    "response3": "AGRHION · Saline Monitor · Breath-Hold AI · CreditWise ✓",
+    "projectsCta": "Explore projects"
+  },
+  "about": {
+    "heading": "About"
+  },
+  "projects": {
+    "heading": "Featured Projects",
+    "subtitle": "Real projects spanning AI, software, embedded systems, and IoT.",
+    "viewProject": "View project",
+    "proj0Desc": "A heavy-duty 6-wheel autonomous agricultural rover using Raspberry Pi for crop-row navigation, sensor-based row detection, grid mapping, plant position identification, autonomous stopping, micro-environment comparison, solar-assisted power management, and LoRa communication.",
+    "proj1Desc": "A low-cost patient-care prototype using a load cell and HX711 to measure saline depletion, with Arduino Uno and ESP32 integration, wireless alert transmission, and automated threshold-based alerts.",
+    "proj2Desc": "A webcam-based system that analyzes chest motion to estimate breath-hold duration, with automatic timing/history tracking and prompt engineering with AI tools.",
+    "proj3Desc": "An end-to-end supervised ML pipeline using KNN, Logistic Regression, and Naive Bayes, with EDA, feature engineering, Precision/Recall/F1 evaluation, Bayes-based repayment likelihood, and an interactive eligibility interface."
+  },
+  "experience": {
+    "exp0Role": "Technical Member · Workshop Organizer",
+    "exp0Period": "2026 · Present",
+    "exp0Location": "VIT Chennai",
+    "exp0Description": "Contributing as a technical member of AGRHI HUB, working around practical engineering and IoT projects.\n\nOrganized and conducted an ESP32 workshop attended by approximately 80 participants, mentoring students while they explored real-world IoT project ideas."
+  },
+  "footer": {
+    "privacy": "Privacy"
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "metaDescription": "Privacy information for Vinay Santosh Belekar portfolio.",
+    "backHome": "Back to home",
+    "lastUpdated": "Last updated: September 2026",
+    "introTitle": "The short version",
+    "introText": "This is a personal portfolio website. Optional analytics may be enabled by the site owner in the future; when enabled, the site will provide appropriate consent controls.",
+    "whatTitle": "What gets collected",
+    "whatText": "If analytics are enabled and you consent, anonymous usage information may be collected to understand how the site is used.",
+    "whatCookie1": "Analytics cookies, when enabled, are used for anonymous usage measurement.",
+    "whatCookie2": "You can decline analytics cookies without affecting the core portfolio experience.",
+    "whatNote": "No advertising profile is intended.",
+    "whyTitle": "Why",
+    "whyText": "To understand which parts of the portfolio are useful and improve the experience.",
+    "noConsentTitle": "If you decline",
+    "noConsentText": "The core portfolio remains available without analytics.",
+    "rightsTitle": "Your rights",
+    "rightsText": "You can contact me with questions about privacy and analytics.",
+    "right1": "Ask what information is collected.",
+    "right2": "Ask about analytics preferences.",
+    "right3": "Raise a privacy concern.",
+    "thirdPartyTitle": "Third-party services",
+    "thirdPartyText": "External services may be linked from this portfolio. Their own policies apply when you leave this site.",
+    "thirdParty1": "GitHub: project and profile links.",
+    "thirdParty2": "LinkedIn: professional profile link when added.",
+    "thirdParty3": "Email: opens your mail client.",
+    "contactTitle": "Contact",
+    "contactText": "Questions about this policy? Email me at {email}."
+  },
+  "consent": {
+    "message": "This site may use anonymous analytics when enabled.",
+    "accept": "Accept",
+    "decline": "Decline",
+    "learnMore": "Learn more"
+  },
+  "cursorComments": {
+    "hero1": "building, not just browsing",
+    "hero2": "ECE meets software",
+    "hero3": "ship the idea",
+    "about1": "curiosity → prototype → iterate",
+    "about2": "software + hardware",
+    "about3": "always learning",
+    "education1": "engineering in progress",
+    "education2": "VIT Chennai",
+    "education3": "learn the fundamentals",
+    "skills1": "tools are only useful when you build",
+    "skills2": "AI + systems",
+    "skills3": "wide toolkit, focused direction",
+    "projects1": "this is where ideas become systems",
+    "projects2": "build it, test it, improve it",
+    "projects3": "four projects, four problem spaces",
+    "experience1": "build with people",
+    "experience2": "teach what you learn",
+    "experience3": "lead by doing",
+    "achievements1": "competition builds discipline",
+    "achievements2": "engineering is not the only arena",
+    "achievements3": "keep showing up",
+    "certifications1": "keep learning",
+    "certifications2": "skills compound",
+    "certifications3": "curiosity has no syllabus",
+    "contact1": "say hello",
+    "contact2": "open to building together",
+    "footer1": "thanks for scrolling",
+    "footer2": "see you in the next build",
+    "default1": "keep exploring",
+    "default2": "one more idea"
+  }
+}
